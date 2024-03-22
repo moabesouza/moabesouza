@@ -13,7 +13,7 @@
 
 <br>
 
-Como programador sou apaixonado pelo desenvolvimento de software, tenho experiência com linguagens de programação como C#, JavaScript e frameworks como Asp.net, Bootstrap e Entity Framework Core. Também tenho habilidade em trabalhar com bancos de dados como SQL Server e MySQL , alem de ter experiência com ferramenta de gerenciamento de código-fonte como Git.
+Como programador sou apaixonado pelo desenvolvimento de software, tenho experiência com linguagens de programação como C#, JavaScript e frameworks como Asp.net, Bootstrap e Entity Framework Core. Também tenho habilidade em trabalhar com bancos de dados como SQL Server.
 
 Estou sempre buscando atualizar e aprimorar minhas habilidades técnicas através de cursos e treinamentos. Meu objetivo é continuar crescendo como profissional e contribuir para o desenvolvimento de soluções inovadoras e de alta qualidade. Estou sempre disposto a enfrentar novos desafios e trabalhar em projetos interessantes e desafiadores.
 
