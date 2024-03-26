@@ -9,15 +9,24 @@
 
 ## <picture><img src = "https://raw.githubusercontent.com/AJ-Derteano/assets/main/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/Right_Side.gif" width = 250px></picture>
 
-<br>
 
-Como programador sou apaixonado pelo desenvolvimento de software, tenho experiência com linguagens de programação como C#, JavaScript e frameworks como Asp.net, Bootstrap e Entity Framework Core. Também tenho habilidade em trabalhar com bancos de dados como SQL Server.
+<div class="container">
+  <!-- Imagem   <img class="image" src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/Right_Side.gif" align="right" width = 200px>-->
 
+
+  <!-- Texto -->
+  <div class="text">
+    <p>
+      Como programador sou apaixonado pelo desenvolvimento de software, tenho experiência com linguagens de programação como C#, JavaScript e frameworks como Asp.net, Bootstrap e Entity Framework Core. Também tenho habilidade em trabalhar com bancos de dados como SQL Server.
+    </p>
+  
+   <p>
 Estou sempre buscando atualizar e aprimorar minhas habilidades técnicas através de cursos e treinamentos. Meu objetivo é continuar crescendo como profissional e contribuir para o desenvolvimento de soluções inovadoras e de alta qualidade. Estou sempre disposto a enfrentar novos desafios e trabalhar em projetos interessantes e desafiadores.
+    </p>
+  </div>
+</div>
 
-<br><br>
 
 <img src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/line.gif"><br><br>
 
