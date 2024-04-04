@@ -50,24 +50,29 @@ Estou sempre buscando atualizar e aprimorar minhas habilidades técnicas atravé
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<h3>GitHub Stats</h3>
 
-# Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/mari4souza/github-readme-stats)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moabesouza&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)                                                
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moabesouza/moabesouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moabesouza/moabesouza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moabesouza/moabesouza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
-<figure><embed src="https://wakatime.com/share/@06c5850a-5bfd-4668-b02a-721d69d50723/0e3b27a5-05a1-4565-920a-b3e621d325c4.svg"></embed></figure>
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a>.
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
+  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/moabesouza">Moabe Souza</a>.</div>
 
-<figure><embed src="https://wakatime.com/share/@06c5850a-5bfd-4668-b02a-721d69d50723/f2dd8f82-616d-4cde-8185-854da793fafd.svg"></embed></figure>
+</details>
 
-<img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
 
-<div align="center">
-   <img src="https://visitcount.itsvg.in/api?id=AJ-Derteano&label=Profile%20Views&icon=5&pretty=true">
-  
-  [![wakatime](https://wakatime.com/badge/user/06c5850a-5bfd-4668-b02a-721d69d50723.svg)](https://wakatime.com/@06c5850a-5bfd-4668-b02a-721d69d50723)
-
-</div>
